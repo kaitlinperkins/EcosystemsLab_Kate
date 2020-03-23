@@ -16,7 +16,7 @@ y <- c(2,8,16,24)
 
 # II. Produce a plot of the data set
 
-plot(x,y)
+plot(x,y,type="l")
 
 
 # III. Commit changes to Github
